@@ -1,0 +1,1 @@
+skeleton_droid.MainActivity;skeleton_droid.MainActivity
