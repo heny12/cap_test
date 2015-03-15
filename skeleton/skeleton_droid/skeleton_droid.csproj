@@ -57,11 +57,6 @@
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
     <AndroidResource Include="Resources\values\Strings.xml" />
-    <AndroidResource Include="Resources\drawable-hdpi\Icon-80.png" />
-    <AndroidResource Include="Resources\drawable-mdpi\Icon-80.png" />
-    <AndroidResource Include="Resources\drawable-xhdpi\Icon-80.png" />
-    <AndroidResource Include="Resources\drawable-xxhdpi\Icon-80.png" />
-    <AndroidResource Include="Resources\drawable-xxxhdpi\Icon-80.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

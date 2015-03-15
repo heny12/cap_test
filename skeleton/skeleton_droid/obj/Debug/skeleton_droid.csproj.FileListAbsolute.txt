@@ -15,3 +15,15 @@ C:\Users\Henry\Documents\Projects\skeleton\skeleton_droid\obj\Debug\res\drawable
 C:\Users\Henry\Documents\Projects\skeleton\skeleton_droid\obj\Debug\res\drawable-xxxhdpi\icon.png
 C:\Users\Henry\Documents\Projects\skeleton\skeleton_droid\obj\Debug\R.cs.flag
 C:\Users\Henry\Documents\Projects\skeleton\skeleton_droid\obj\Debug\uploadflags.txt
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\skeleton_droid.dll
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\skeleton_droid.pdb
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\bin\Debug\skeleton_droid.dll
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\bin\Debug\skeleton_droid.pdb
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\bin\Debug\skeleton_droid.dll.mdb
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\bin\Debug\skeleton_droid.skeleton_droid.apk
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\bin\Debug\skeleton_droid.skeleton_droid-Signed.apk
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\android\bin\skeleton_droid.skeleton_droid.apk
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\res\layout\main.xml
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\res\values\strings.xml
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\R.cs.flag
+C:\Users\Henry\Documents\GitHub\cap_test\skeleton\skeleton_droid\obj\Debug\uploadflags.txt
